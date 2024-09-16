@@ -1,0 +1,6 @@
+Status code de 400 a 499 significam erros do cliente.
+
+Status 400 = Bad Request
+Status 401 = Unauthorized
+Status 404 = Not Found
+Status 422 = Unprocessable Entity
